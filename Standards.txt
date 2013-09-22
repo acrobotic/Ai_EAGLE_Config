@@ -14,23 +14,36 @@ NET CLASSES:
 
 
 LOGOS:
-
-
+-SYMBOL:
+Format: Scaled
+Unit: Mil
+Scale Factor: .2
+Start Layer: 94 Symbols
+-PACKAGE (L):
+Scale Factor: .1
+Start Layer: 21 tPlace, 22 bBlace
 
 BOARDS 
 ------
 -NAMES 
 Format: Ai MOTOR SHIELD
 Size: 65
-Ratio: 10%
+Ratio: 15%
 Line Dist.: 50%
-Layer: 21 tPlace
+Layer: 21 tPlace, 22 bBlace
 Font: vector
 
 -VERSION
 Format: v#.#
 Size: 35
-Ratio: 10%
+Ratio: 15%
 Line Dist.: 50%
-Layer: 21 tPlace
+Layer: 21 tPlace, 22 bBlace
+Font: vector
+
+-LABELS
+Size: 50
+Ratio: 15%
+Line Dist.: 50%
+Layer: 21 tPlace, 22 bBlace
 Font: vector
