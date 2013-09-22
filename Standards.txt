@@ -14,3 +14,23 @@ NET CLASSES:
 
 
 LOGOS:
+
+
+
+BOARDS 
+------
+-NAMES 
+Format: Ai MOTOR SHIELD
+Size: 65
+Ratio: 10%
+Line Dist.: 50%
+Layer: 21 tPlace
+Font: vector
+
+-VERSION
+Format: v#.#
+Size: 35
+Ratio: 10%
+Line Dist.: 50%
+Layer: 21 tPlace
+Font: vector
