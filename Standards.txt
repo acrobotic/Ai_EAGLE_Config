@@ -1,27 +1,55 @@
-PACKAGES:
+Units: mil
+
+PACKAGES
+--------
 
 
-DEVICES:
+DEVICES
+-------
+Width: 8
+Size: 50
+Ratio: 15%
+Line Dist.: 50%
+Layer: 21 tPlace, 22 bBlace
+Font: vector
 
 
+SYMBOLS
+-------
+Size: 60
+Ratio: 15%
+Line Dist.: 50%
 
-SYMBOLS:
+Width: 16 (e.g., boxes), 10 (line drawings)
 
+TDOCU NOTES
+-----------
+Size: 40
 
+----------
+NET CLASSES
+-----------
 
-NET CLASSES:
-
-
-
-LOGOS:
--SYMBOL:
+LOGOS
+-----
+-SYMBOL
 Format: Scaled
 Unit: Mil
 Scale Factor: .2
 Start Layer: 94 Symbols
--PACKAGE (L):
+-PACKAGE (L)
 Scale Factor: .1
 Start Layer: 21 tPlace, 22 bBlace
+
+SCHEMATICS
+----------
+-AUTHOR
+Format: A.I. HARDWARE SITH LORDS
+
+-LABELS
+X-Ref: On
+Size: 50
+Ratio: 15%
 
 BOARDS 
 ------
