@@ -1,6 +1,3 @@
-# Configuration Script for CadSoft EAGLE (6 and later) by Acrobotic
-# Author: "x1sc0" <x1sc0@acrobotic.com>
-#
 # Usage
 # 1. From the Control Panel go to Options -> Directories
 # 2. Change the Scripts path to include the directory where this script is located 
@@ -10,23 +7,3 @@
 #remember to interchange "/" and "\" accordingly, and line endings ("CR LF" and "CR").
 # - Typically, we'd want the scr-custom eagle.scr script to run first, therefore it's the first
 #directory location in the Scripts path.
-SCRIPT default-assign.scr;
-#
-
-BRD:
-Grid Default On mil 50;
-
-SCH:
-Grid Default On mil 50;
-
-SYM:
-Grid Default On mil 50;
-Change Width 0.010;
-
-PAC:
-Grid Default On mil 50;
-Change Width 0.005;
-Change Size 0.050;
-
-DEV:
-Grid Default On mil 50;
