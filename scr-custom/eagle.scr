@@ -10,7 +10,9 @@
 #remember to interchange "/" and "\" accordingly, and line endings ("CR LF" and "CR").
 # - Typically, we'd want the scr-custom eagle.scr script to run first, therefore it's the first
 #directory location in the Scripts path.
+
 SCRIPT default-assign.scr;
+
 #
 
 BRD:
